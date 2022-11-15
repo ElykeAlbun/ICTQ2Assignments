@@ -1,0 +1,32 @@
+h1{
+	font-family: Times new roman;
+	color: white;
+	text-decoration: underline;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+
+}
+p{
+	text-indent: 25px;
+	color: white;
+}
+span{
+	font-variant: small-caps;
+	color: white;
+	font-weight: bold;
+}
+#ex{
+	text-shadow: 2px 2px 5px #99A3A4;
+	color: white;
+}
+body{
+	background-color: #212F3C;
+}
+#pic{
+	border-style: solid;
+	border-color: #78281F;
+	float: right;
+}
+footer{
+	color: whitesmoke;
+}
