@@ -1,0 +1,29 @@
+body{
+	border-style: solid;
+	border-color: #b62684;
+	border-width: 10px;
+}
+.Div1{
+	background-color: #b62684;
+	padding: 10px 10px 10px;
+	margin: auto;
+}
+.Div2{
+	background-color: #009849;
+	padding: 10px 10px 10px;
+	margin: auto;
+}
+h1{
+	font-family: Alice;
+	color: black;
+	text-shadow: whitesmoke 2px 2px 2px;
+}
+ul{
+	font-family: Alice;
+	color: black;
+}
+img{
+	border-style: inset;
+	border-color: #009849;
+	border-width: 5px;
+}
