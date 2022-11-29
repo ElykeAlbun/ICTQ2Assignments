@@ -1,0 +1,33 @@
+img{
+	height: 300px;
+	width: 300px;
+	padding: 15px;
+	border-radius: 50px;
+	opacity: .50;
+
+}
+img:hover{
+	opacity: 1.5;
+}
+body{
+	background-color: Black;
+	color: white;
+	text-align: center;
+	font-family: Arial;
+	margin: 100px;
+}
+table{
+	margin-left: auto;
+	margin-right: auto;
+}
+h1{
+	text-transform: uppercase;
+	letter-spacing: 12px;
+}
+.profile{
+	height: 8px;
+	width: 8px;
+}
+footer{
+	margin-left: 1000px;
+}
